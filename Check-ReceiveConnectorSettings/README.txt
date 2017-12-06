@@ -1,3 +1,5 @@
+Execution of this script is on your own risk. Please read the code before you run it. It will need a change of the execution policy for powershell.
+
 This script checks the receive connectors settings and compare them to the defaults.
 The default settings are the following:
 
@@ -8,6 +10,6 @@ The default settings are the following:
 "FrontendTransport","Outbound Proxy Frontend ","Tls, Integrated, BasicAuth, BasicAuthRequireTLS, ExchangeServer","[::]:717,0.0.0.0:717","ExchangeServers","::-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff,0.0.0.0-255.255.255.255","True"
 "FrontendTransport","Client Frontend ","Tls, Integrated, BasicAuth, BasicAuthRequireTLS","[::]:587,0.0.0.0:587","AnonymousUsers, ExchangeUsers","::-ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff,0.0.0.0-255.255.255.255","True"
     
- Execution of this script is on your own risk. Please read the code before you run it.
+
  
  
