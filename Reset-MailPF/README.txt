@@ -1,4 +1,4 @@
-Execution of this script is on your own risk. Please read the code before you run it.
+Execution of this script is on your own risk. Please read the code before you run it. It will need a change of the execution policy for powershell.
 
 This script will help you to reset the mail enabled public folder object in all Exchange Server Versions. 
 This will not remove the public folder it self, it is recreating the mail objects in Active Directory.
