@@ -10,7 +10,7 @@ Instructions:
 
 Start PowerShell.exe and set the execution policy to "unrestricted". More info, about execution policy you can find here: https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-5.1
 
-Navigate to the holder folder of the script and run it. You will be asked, what do you want to do first, the options are the following:
+Navigate to the folder, where you save the script and run it. You will be asked, what do you want to do first, the options are the following:
 
 -Backup-MailPublicFolders (This option will created a temp folder under C:\, if it is not present and MailPFs.csv file with a backup of all mail enabled public folders in the organization. It will back up all proxy smtp addresses of all mail PFs.)
 
